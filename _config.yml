@@ -99,8 +99,8 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: purer
+## Themes: hexo-netlify1234567/themes/themes1
+theme: line
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
